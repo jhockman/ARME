@@ -1,6 +1,6 @@
 ---
 title: Jason Hockman
-role: Senior Lecturer
+role: Associate Professor
 authors:
 - Jason Hockman
 
@@ -12,32 +12,33 @@ superuser: false
 # Organizations/Affiliations
 organizations:
 - name: Birmingham City University
-  url: 'https://www.bcu.ac.uk/digital-technology/about-us/our-expertise/our-staff/ryan-stables'
+  url: 'https://www.bcu.ac.uk/digital-technology/about-us/our-expertise/our-staff/jason-hockman'
 
 
 
 interests:
+- Music information retrieval
 - Audio engineering
-- Digital signal processing
 - Machine learning
-- Music informatics
+- Digital signal processing
+
 
 
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=CQO9dewAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=VuSlN6oAAAAJ&hl=en
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/otmiv
+  link: 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ryan-stables-2660b4155/
+  link: 
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Ryan-Stables
+  link: 
 
 user_groups:
 - Principal Investigators
 ---
-Bio here
+Jason Hockman is an Associate Professor of Audio Engineering at Birmingham City University (United Kingdom), where he leads the Sound and Music Analysis Group in computational analysis and generation of sound and music. Jason is a music information retrieval researcher, a professional music producer and performer, and an owner of an award-winning independent record label. His interests have led him to conduct research related to a diverse set of topics, including music transcription, digital musicology, rhythm and metre analysis, neural audio synthesis, best practices for recording and archival, and interactive and performance music systems. 

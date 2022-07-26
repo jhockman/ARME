@@ -1,6 +1,6 @@
 ---
 title: Jason Hockman
-role: Senior Lecturer
+role: Associate Professor
 authors:
 - Jason Hockman
 
